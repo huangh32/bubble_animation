@@ -1,2 +1,3 @@
 # bubble_animation
-Created with CodeSandbox
+
+Bubble animation demo using CSS animation
